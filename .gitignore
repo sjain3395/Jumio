@@ -1,0 +1,3 @@
+# Project exclude paths
+/jumio-catloge-services/target/
+/target/
